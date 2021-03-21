@@ -8,8 +8,10 @@
 <li>Pro dog walker 🐕</li>
 </ul>
 
-<p>BTW: I'm also building some useful WordPress and WooCommerce plugins.</p>
-<p>You can find detailed information about them (and more) <a href="https://patrickposner.dev">here</a>.</p>
+<p>
+BTW: I'm also building some useful WordPress and WooCommerce plugins.<br>
+You can find detailed information about them (and more) <a href="https://patrickposner.dev">here</a>.
+</p>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/patrickposner_)
 
