@@ -5,7 +5,7 @@
 - bass guitar player (medium) 🎸
 - owner of the fluffiest dog 🐕
 
-I'm also building some useful **WordPress and WooCommerce plugins**. It's mostly about content protection, age verification, secure document libraries and generating static websites.
+I'm building some useful **WordPress and WooCommerce plugins**. It's mostly about **content protection**, **age verification**, **secure document libraries**, and generating **static websites**.
 
 You can find out more about me, my plugins and my business on my [website](https://patrickposner.dev).
 
