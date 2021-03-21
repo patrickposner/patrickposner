@@ -1,11 +1,10 @@
 <h1>Hey, I'm Patrick 👋</h1>
 
 <ul>
-<li>WordPress Developer 👨‍💻</li>
-<li>Avid writer 📋</li>
-<li>One-Man-Show 🕶️</li>
-<li>Medium base guitar player 🎸</li>
-<li>Pro dog walker 🐕</li>
+<li>Experienced WordPress Developer 👨‍💻</li>
+<li>One-Man-Show aka Solopreneur🕶️</li>
+<li>bass guitar player (medium) 🎸</li>
+<li>owner of the fluffiest dog 🐕</li>
 </ul>
 
 <p>
