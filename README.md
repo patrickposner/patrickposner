@@ -2,7 +2,7 @@
 
 <ul>
 <li>Experienced WordPress Developer 👨‍💻</li>
-<li>One-Man-Show aka Solopreneur🕶️</li>
+<li>One-Man-Show aka Solopreneur 🤟</li>
 <li>bass guitar player (medium) 🎸</li>
 <li>owner of the fluffiest dog 🐕</li>
 </ul>
