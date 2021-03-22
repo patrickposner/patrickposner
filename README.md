@@ -13,9 +13,9 @@ You can find out more about me, my plugins and my business on [patrickposner.dev
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Static Site Generator Tools for WordPress](https://patrickposner.dev/static-site-generator-tools-wordpress/)
 - [What Are Static Site Generators and Who Needs Them](https://patrickposner.dev/static-site-generators/)
 - [How to Make a Password Protected Form in WordPress](https://patrickposner.dev/password-protected-form-in-wordpress/)
 - [How to Build a B2B Content Library](https://patrickposner.dev/b2b-content-library/)
 - [How to: Selling Products Online Locally](https://patrickposner.dev/how-to-selling-products-online-locally/)
-- [The future of Simply Static](https://patrickposner.dev/the-future-of-simply-static/)
 <!-- BLOG-POST-LIST:END --> 
