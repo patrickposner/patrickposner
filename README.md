@@ -13,9 +13,9 @@ You can find out more about me, my plugins and my business on [patrickposner.dev
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Tools to Use Comments on a Static Site](https://patrickposner.dev/comments-on-a-static-site/)
 - [Age verification: How to Prevent Sales to Minors Without Losing Customers](https://patrickposner.dev/prevent-sales-minors-age-verification/)
 - [Best WooCommerce Plugins for Selling Locally Online](https://patrickposner.dev/best-plugins-for-selling-locally-online/)
 - [6 Static Site Generator Tools for WordPress](https://patrickposner.dev/static-site-generator-tools-wordpress/)
 - [What Are Static Site Generators and Who Needs Them](https://patrickposner.dev/static-site-generators/)
-- [How to Make a Password Protected Form in WordPress](https://patrickposner.dev/password-protected-form-in-wordpress/)
 <!-- BLOG-POST-LIST:END --> 
